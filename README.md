@@ -11,7 +11,7 @@ Highlights:-
 
 Note: Verify the file hashes with "Hash List (v1.0 UMAM-DF DataSet).xlsx" shared with this repo., before experimenting on your own.
 
-~Sh@rinG i5 $3cur!tY~
-~H@99y S(=)@rin9~
+*Sh@rinG i5 $3cur!tY*
+*H@99y S(=)@rin9*
 
 Feel free to ping us for dataset discripenceis at cybersecurity@amrita.edu (and) for any technical or algorithmic queries connect with the primary author m_ashokkumar@cb.amrita.edu
